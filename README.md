@@ -27,6 +27,15 @@ I truly recommend you to buy it if you want to know more about the concepts I'll
   - Main Layer
 
 ## [ ] Seção 2: Login - Domain e Data Layer
+
+### What I've learned on this module
+- Folder Architecture
+- Dependecy Injection
+- Spy Classes
+- Unit tests with jest
+- Factory Pattern
+- SUT Pattern
+
 ## [ ] Seção 3: Infra Layer - Implementando o HttpPostClient
 ## [ ] Seção 4: Login - Presentation Layer
 ## [ ] Seção 5: Login - Validation Layer
