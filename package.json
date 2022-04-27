@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "jest --passWithNoTests",
     "test:watch": "yarn run test -- --watch",
     "test:staged": "yarn run test -- --findRelatedTests",
-    "test:ci": "yarn run test -- --coverage"
+    "test:ci": "yarn run test -- --coverage",
+    "postinstall": "husky install"
   },
   "keywords": [],
   "author": "",
@@ -28,6 +30,7 @@
     "husky": "^7.0.4",
     "jest": "^27.5.1",
     "lint-staged": "^12.4.0",
+    "pinst": "^3.0.0",
     "ts-jest": "^27.1.4",
     "typescript": "^4.6.3"
   }
