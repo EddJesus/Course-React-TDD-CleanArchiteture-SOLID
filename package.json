@@ -9,7 +9,8 @@
     "test:watch": "yarn run test -- --watch",
     "test:staged": "yarn run test -- --findRelatedTests",
     "test:ci": "yarn run test -- --coverage",
-    "postinstall": "husky install"
+    "postinstall": "husky install",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx src/ --fix"
   },
   "keywords": [],
   "author": "",
