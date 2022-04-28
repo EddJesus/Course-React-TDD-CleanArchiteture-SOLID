@@ -35,6 +35,7 @@ I truly recommend you to buy it if you want to know more about the concepts I'll
 - Unit tests with jest
 - Factory Pattern
 - SUT Pattern
+- Faker.js to mock values
 
 ## [ ] Seção 3: Infra Layer - Implementando o HttpPostClient
 ## [ ] Seção 4: Login - Presentation Layer
