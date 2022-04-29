@@ -36,6 +36,7 @@ I truly recommend you to buy it if you want to know more about the concepts I'll
 - Factory Pattern
 - SUT Pattern
 - Faker.js to mock values
+- Structuring typescript and jest import paths
 
 ## [ ] Seção 3: Infra Layer - Implementando o HttpPostClient
 ## [ ] Seção 4: Login - Presentation Layer
