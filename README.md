@@ -26,7 +26,7 @@ I truly recommend you to buy it if you want to know more about the concepts I'll
   - Presentation Layer
   - Main Layer
 
-## [ ] Seção 2: Login - Domain e Data Layer
+## [x] Seção 2: Login - Domain e Data Layer
 
 ### What I've learned on this module
 - Folder Architecture
