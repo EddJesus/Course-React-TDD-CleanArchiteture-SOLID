@@ -40,6 +40,15 @@ I truly recommend you to buy it if you want to know more about the concepts I'll
 - Typescript Generic Types
 
 ## [ ] Seção 3: Infra Layer - Implementando o HttpPostClient
+### What I've learned on this module
+- Adpter Pattern // I read about that on Clean Code Today as well
+- You ain't gonna need it (YAGNI)
+- How mocking request and responses on tests looks like
+- More about Factory Pattern
+- Reusability Principle
+- Http Adapter class
+- Jest/axios integration
+
 ## [ ] Seção 4: Login - Presentation Layer
 ## [ ] Seção 5: Login - Validation Layer
 ## [ ] Seção 6: Login - Main Layer
