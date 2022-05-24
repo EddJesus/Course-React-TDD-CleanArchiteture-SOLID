@@ -12,15 +12,6 @@ const makeSut = (): AxiosHttpClient => {
   return new AxiosHttpClient()
 }
 
-test('Should call axios with correct body', async () => {
-  const { url, body } = mockPostRequest()
-  const sut = makeSut()
-
-  await sut.post({ url, body })
-
-  expect(mockedAxios.post).toHaveBeenCalledWith(url)
-})
-
 const mockPostRequest = (): HttpPostParams<any> => {
   const object = { keyA: 'valueA', keyB: 42 }
   return {
